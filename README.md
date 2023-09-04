@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi Folks👋
+
+- 🔭 I’m currently working on Router1X3 VLSI based project. 
+- 🌱 I’m currently learning VLSI concepts (advance verilog).
+- 📫 How to reach me: manojp0577@gmail.com
 
 <!--
 **18ManojP/18ManojP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
